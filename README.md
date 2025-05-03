@@ -1,4 +1,4 @@
-# NourTool.py
+# NoorTool.py
 
 ## Hello World, I'm ASKAL 👋
 
