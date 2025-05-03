@@ -55,4 +55,4 @@ python NourTool.py --help
 *📢 Contributions*
 Feel free to contribute by creating a *Pull Request* or reporting issues. Together, we can improve the tool!  
 
-*Maintainer:* [ASKAL](https://github.com/AskalSec)
+*Maintainer:* [ASKAL](https://github.com/Noureddindev)
