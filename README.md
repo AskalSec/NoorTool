@@ -19,7 +19,7 @@ Welcome to the official repository for **NoorTool.py**, a script designed for **
 ### **On Linux**
 Run the following commands:
 ```bash
-git clone https://github.com/Noureddindev/NoorTool.git
+git clone https://github.com/mraskal/NoorTool.git
 cd NoorTool
 chmod +x NoorTool.py
 python3 NoorTool.py
@@ -33,7 +33,7 @@ pkg install python git
 ```
 Then, clone the repository and run the script:
 ```bash
-git clone https://github.com/Noureddindev/NoorTool.git
+git clone https://github.com/mraskal/NoorTool.git
 cd NoorTool
 chmod +x NoorTool.py
 python NoorTool.py
@@ -55,4 +55,4 @@ python NoorTool.py --help
 *📢 Contributions*
 Feel free to contribute by creating a *Pull Request* or reporting issues. Together, we can improve the tool!  
 
-*Maintainer:* [ASKAL](https://github.com/Noureddindev)
+*Maintainer:* [ASKAL](https://github.com/mraskal)
